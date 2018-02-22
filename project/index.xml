@@ -13,21 +13,12 @@
     
     
     <item>
-      <title>Deep Learning</title>
+      <title>Towards accurate prediction of T cell targets</title>
       <link>/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/example-external-project/</guid>
-      <description></description>
+      <description>Goal: The cellular immune response is to a high degree defined by T cells that scrutinize the surface of cells for the presence of immunological targets (peptides presented by Major histocompatibility complex (MHC) on the surface of most cells in the host). The understanding of cellular immunology has advanced significantly over the last decades, and has led to the identification and characterization of many of the essential factors that dictate if a given protein fragment will be an antigen, i.</description>
     </item>
     
   </channel>
