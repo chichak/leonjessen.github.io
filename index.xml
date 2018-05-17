@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>How to organize a project - The most important talk you never heard!</title>
+      <link>https://leonjessen.github.io/talk/2018_02_08/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://leonjessen.github.io/talk/2018_02_08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Let&#39;s be tidy!</title>
       <link>https://leonjessen.github.io/talk/2018_02_09/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
