@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on All models are wrong, but some are useful...</title>
-    <link>/talk/</link>
+    <link>https://leonjessen.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on All models are wrong, but some are useful...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://leonjessen.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
+      <title>Let&#39;s be tidy!</title>
+      <link>https://leonjessen.github.io/talk/2018_02_09/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>/talk/example-talk/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>https://leonjessen.github.io/talk/2018_02_09/</guid>
+      <description></description>
     </item>
     
   </channel>
