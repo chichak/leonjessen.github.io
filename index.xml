@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Deep Learning for Cancer Immunotherapy</title>
+      <link>https://leonjessen.github.io/post/deep-learning-for-cancer-immunotherapy/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://leonjessen.github.io/post/deep-learning-for-cancer-immunotherapy/</guid>
+      <description>&lt;p&gt;This post was written by invite by RStudio. &lt;a href=&#34;https://tensorflow.rstudio.com/blog/dl-for-cancer-immunotherapy.html&#34; target=&#34;_blank&#34;&gt;Click here to go to the post at RStudio.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning with R for Modelling Molecular Interactions</title>
+      <link>https://leonjessen.github.io/talk/2018_05_30/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://leonjessen.github.io/talk/2018_05_30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How to organize a project - The most important talk you never heard!</title>
       <link>https://leonjessen.github.io/talk/2018_02_08/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
