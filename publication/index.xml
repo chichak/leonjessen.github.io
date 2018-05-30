@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on All models are wrong, but some are useful...</title>
-    <link>https://leonjessen.github.io/publication/</link>
+    <link>/publication/</link>
     <description>Recent content in Publications on All models are wrong, but some are useful...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://leonjessen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SigniSite: Identification of residue-level genotype-phenotype correlations in protein multiple sequence alignments.</title>
-      <link>https://leonjessen.github.io/publication/jessen_2013/</link>
+      <link>/publication/jessen_2013/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://leonjessen.github.io/publication/jessen_2013/</guid>
+      <guid>/publication/jessen_2013/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

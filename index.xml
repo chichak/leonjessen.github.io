@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>All models are wrong, but some are useful... on All models are wrong, but some are useful...</title>
-    <link>https://leonjessen.github.io/</link>
+    <link>/</link>
     <description>Recent content in All models are wrong, but some are useful... on All models are wrong, but some are useful...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,83 +12,83 @@
     
     <item>
       <title>Deep Learning for Cancer Immunotherapy</title>
-      <link>https://leonjessen.github.io/post/deep-learning-for-cancer-immunotherapy/</link>
+      <link>/post/deep-learning-for-cancer-immunotherapy/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://leonjessen.github.io/post/deep-learning-for-cancer-immunotherapy/</guid>
+      <guid>/post/deep-learning-for-cancer-immunotherapy/</guid>
       <description>&lt;p&gt;This post was written by invite by RStudio. &lt;a href=&#34;https://tensorflow.rstudio.com/blog/dl-for-cancer-immunotherapy.html&#34; target=&#34;_blank&#34;&gt;Click here to go to the post at RStudio.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning with R for Modelling Molecular Interactions</title>
-      <link>https://leonjessen.github.io/talk/2018_05_30/</link>
+      <link>/talk/2018_05_30/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://leonjessen.github.io/talk/2018_05_30/</guid>
+      <guid>/talk/2018_05_30/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to organize a project - The most important talk you never heard!</title>
-      <link>https://leonjessen.github.io/talk/2018_02_08/</link>
+      <link>/talk/2018_02_08/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://leonjessen.github.io/talk/2018_02_08/</guid>
+      <guid>/talk/2018_02_08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Let&#39;s be tidy!</title>
-      <link>https://leonjessen.github.io/talk/2018_02_09/</link>
+      <link>/talk/2018_02_09/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://leonjessen.github.io/talk/2018_02_09/</guid>
+      <guid>/talk/2018_02_09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TBA</title>
-      <link>https://leonjessen.github.io/talk/2018_06_22/</link>
+      <link>/talk/2018_06_22/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://leonjessen.github.io/talk/2018_06_22/</guid>
+      <guid>/talk/2018_06_22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TBA</title>
-      <link>https://leonjessen.github.io/talk/2018_07_04/</link>
+      <link>/talk/2018_07_04/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://leonjessen.github.io/talk/2018_07_04/</guid>
+      <guid>/talk/2018_07_04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TBA</title>
-      <link>https://leonjessen.github.io/talk/2018_08_15/</link>
+      <link>/talk/2018_08_15/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://leonjessen.github.io/talk/2018_08_15/</guid>
+      <guid>/talk/2018_08_15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TBA</title>
-      <link>https://leonjessen.github.io/talk/2018_09_21/</link>
+      <link>/talk/2018_09_21/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://leonjessen.github.io/talk/2018_09_21/</guid>
+      <guid>/talk/2018_09_21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards accurate prediction of T cell targets</title>
-      <link>https://leonjessen.github.io/project/deep-learning/</link>
+      <link>/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://leonjessen.github.io/project/deep-learning/</guid>
+      <guid>/project/deep-learning/</guid>
       <description>&lt;p&gt;Goal: The cellular immune response is to a high degree defined by T cells
 that scrutinize the surface of cells for the presence of immunological targets (peptides presented by Major histocompatibility complex (MHC) on the surface of most cells in the host). The understanding of cellular immunology has advanced significantly over the last decades, and has led to the identification and characterization of many of the essential factors that dictate if a given protein fragment will be an antigen, i.e. be able to induce an immune response. However, one essential part of this knowledge-space remains poorly resolved, namely the rules that define the T cell receptor (TCR) specificity towards individual peptide-MHC (pMHC) antigenic targets. The main objective of this project is to investigate the rules that guide TCR interactions with their cognate antigen targets; then, based upon these rules, to develop an accurate prediction model to identify antigen targets of a given TCR based on its protein sequence. PI: Professor Morten Nielsen&lt;/p&gt;
 </description>
@@ -96,10 +96,10 @@ that scrutinize the surface of cells for the presence of immunological targets (
     
     <item>
       <title>SigniSite: Identification of residue-level genotype-phenotype correlations in protein multiple sequence alignments.</title>
-      <link>https://leonjessen.github.io/publication/jessen_2013/</link>
+      <link>/publication/jessen_2013/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://leonjessen.github.io/publication/jessen_2013/</guid>
+      <guid>/publication/jessen_2013/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

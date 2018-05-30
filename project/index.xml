@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on All models are wrong, but some are useful...</title>
-    <link>https://leonjessen.github.io/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on All models are wrong, but some are useful...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://leonjessen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Towards accurate prediction of T cell targets</title>
-      <link>https://leonjessen.github.io/project/deep-learning/</link>
+      <link>/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://leonjessen.github.io/project/deep-learning/</guid>
+      <guid>/project/deep-learning/</guid>
       <description>Goal: The cellular immune response is to a high degree defined by T cells that scrutinize the surface of cells for the presence of immunological targets (peptides presented by Major histocompatibility complex (MHC) on the surface of most cells in the host). The understanding of cellular immunology has advanced significantly over the last decades, and has led to the identification and characterization of many of the essential factors that dictate if a given protein fragment will be an antigen, i.</description>
     </item>
     
